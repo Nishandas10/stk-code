@@ -10,7 +10,7 @@ shallow_clone: true
 
 platform:
     # - x86
-    - x64
+    - x86
 
 configuration:
     - Debug
